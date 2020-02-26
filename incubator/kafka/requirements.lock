@@ -1,6 +1,6 @@
 dependencies:
 - name: zookeeper
-  repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-  version: 2.1.0
-digest: sha256:f50b0b5f50f4938a5369c5ea479030a4f87e99aecb7752ab434f75a6c39f304a
-generated: "2019-11-05T16:37:25.868424523-06:00"
+  repository: https://artifactory.corp.adobe.com:443/artifactory/helm-bladerunner-snapshot/
+  version: 2.1.5
+digest: sha256:341b177ffe3c22c9b271b915221ecffec1b1f9c953ba95ecff496b505a6479d7
+generated: "2020-02-26T11:41:13.757418772-05:00"
